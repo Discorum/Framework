@@ -1,4 +1,12 @@
-# Discorum [![Build Status](https://travis-ci.org/Discorum/Framework.svg)](https://travis-ci.org/Discorum/Framework)
+<p align="center">
+	<a href="https://discorum.com" target="_blank"><img src="http://nsylke.me/img/discorum.png"></a>
+</p>
+
+<p align="center">
+	<a href="https://travis-ci.org/discorum/framework"><img src="https://travis-ci.org/discorum/framework.svg" alt="Build Status"></a>
+</p>
+
+# About Discorum
 
 The Discorum Framework is open-source software that powers [Discorum](https://github.com/Discorum/Discorum).
 
