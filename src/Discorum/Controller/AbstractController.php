@@ -4,7 +4,7 @@ namespace Discorum\Controller;
 
 use Psr\Container\ContainerInterface;
 
-abstract class Controller
+abstract class AbstractController
 {
 	/**
      * The container interface
