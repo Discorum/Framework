@@ -2,11 +2,12 @@
     "name": "discorum/framework",
     "description": "The framework that powers the Discorum forum software.",
     "version": "0.0.1",
-    "keywords": ["discord", "discordapp", "forum", "framework"],
+    "keywords": ["discord", "discordapp", "discorum", "forum", "framework"],
     "homepage": "https://discorum.com",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/Discorum/Framework/issues"
+        "issues": "https://github.com/discorum/framework/issues",
+        "source": "https://github.com/discorum/framework"
     },
     "authors": [
         {
@@ -32,7 +33,6 @@
             "Discorum\\": "src/Discorum"
         }
     },
-    "scripts": {
-        "start": "php -S localhost:8080 -t public"
-    }
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
