@@ -1,7 +1,6 @@
 {
     "name": "discorum/framework",
     "description": "The framework that powers the Discorum forum software.",
-    "version": "0.0.1",
     "keywords": ["discord", "discordapp", "discorum", "forum", "framework"],
     "homepage": "https://discorum.com",
     "license": "MIT",
