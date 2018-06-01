@@ -30,7 +30,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Discorum\\": "src/Discorum"
+            "Discorum\\": "src/Discorum/"
         }
     },
     "minimum-stability": "dev",
