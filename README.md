@@ -10,7 +10,9 @@
 
 # About Discorum
 
-The Discorum Framework is open-source software that powers [Discorum](https://github.com/Discorum/Discorum).
+> This repository contains the framework for Discorum. If you want to use Discorum, visit the main [repository](https://github.com/Discorum/Discorum).
+
+Discorum is an open-source forum and discussion board software aimed for discord communties. 
 
 [![Join Discorum](https://discordapp.com/api/guilds/450508841738829826/embed.png?style=banner2)](https://discord.gg/GJtaVjQ)
 
