@@ -1,15 +1,15 @@
 <?php 
 
-namespace Discorum\Controller;
+namespace Discorum\Http\Controller;
 
-use Psr\Container\ContainerInterface;
+use Interpol\Container\ContainerInterface;
 
 abstract class AbstractController
 {
 	/**
      * The container interface
      * 
-     * @var \Psr\Container\ContainerInterface
+     * @var \Interpol\Container\ContainerInterface
      */
 	protected $container;
 
@@ -28,7 +28,7 @@ abstract class AbstractController
      * 
      * @param string $property The property item
      */
-    public function __get($property)
+    public function __get(string $property)
     {
         if ($this->container->has($property)) {
             return $this->container->get($property);
