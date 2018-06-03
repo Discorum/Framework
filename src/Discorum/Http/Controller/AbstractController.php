@@ -2,14 +2,14 @@
 
 namespace Discorum\Http\Controller;
 
-use Interpol\Container\ContainerInterface;
+use Psr\Container\ContainerInterface;
 
 abstract class AbstractController
 {
 	/**
      * The container interface
      * 
-     * @var \Interpol\Container\ContainerInterface
+     * @var \Psr\Container\ContainerInterface
      */
 	protected $container;
 
