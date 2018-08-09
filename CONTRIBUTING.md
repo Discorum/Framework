@@ -22,4 +22,4 @@ Looking at the existing issues is the best way to find something to contribute o
 
 ## Security vulnerability
 
-If you find a security vulnerability within the Discorum framework, we ask that you report it responsibly. Send an email to Nicholas Sylke at [nicksylke@outlook.com](mailto:nicksylke@outlook.com). All security vulnerabilities will be promptly addressed.
+If you find a security vulnerability within the Discorum framework, we ask that you report it responsibly. Send an email to Nicholas Sylke at [hello@nsylke.me](mailto:hello@nsylke.me). All security vulnerabilities will be promptly addressed.
