@@ -5,8 +5,8 @@
 <p align="center">
 	<a href="https://travis-ci.org/discorum/framework"><img src="https://travis-ci.org/discorum/framework.svg" alt="Build Status"></a>
 	<a href="https://styleci.io/repos/135633326"><img src="https://styleci.io/repos/135633326/shield?branch=master" alt="StyleCI"></a>
-	<a href="https://packagist.org/packages/discorum/framework"><img src="https://poser.pugx.org/discorum/framework/d/total.svg" alt="Total Downloads"></a>
 	<a href="https://codecov.io/gh/discorum/framework"><img src="https://codecov.io/gh/discorum/framework/branch/master/graph/badge.svg" alt="codecov"></a>
+	<a href="https://packagist.org/packages/discorum/framework"><img src="https://poser.pugx.org/discorum/framework/d/total.svg" alt="Total Downloads"></a>
 	<a href="https://packagist.org/packages/discorum/framework"><img src="https://poser.pugx.org/discorum/framework/v/stable.svg" alt="Latest Stable Version"></a>
 </p>
 
