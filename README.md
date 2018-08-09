@@ -24,13 +24,13 @@ We welcome contributions to the Discorum Framework! Please review the [contribut
 
 ## Security
 
-If you find a security vulnerability within the Discorum Framework, we ask that you report it responsibly. Send an email to Nicholas Sylke at [nicksylke@outlook.com](mailto:nicksylke@outlook.com). All security vulnerabilities will be promptly addressed.
+If you find a security vulnerability within the Discorum Framework, we ask that you report it responsibly. Send an email to Nicholas Sylke at [hello@nsylke.me](mailto:hello@nsylke.me). All security vulnerabilities will be promptly addressed.
 
 
 ## Created By
 
 - [Nicholas Sylke](https://github.com/nsylke) (Nick#4490)
-- [Tyler Richards](https://github.com/tjrgg) (Tyler#0130)
+- [TJ Richards](https://github.com/tjrgg) (tjrgg#0130)
 
 
 ## License
