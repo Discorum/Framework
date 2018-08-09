@@ -1,4 +1,5 @@
-<?php 
+<?php
+
 
 /**
  * This file is part of the Discorum package.
@@ -16,7 +17,7 @@ use Psr\Container\ContainerInterface;
 
 /**
  * The base controller for all controllers within Discorum.
- * 
+ *
  * @author Nicholas Sylke <hello@nsylke.me>
  * @author TJ Richards <hello@tjr.gg>
  */
@@ -24,14 +25,14 @@ abstract class AbstractController
 {
     /**
      * The container interface.
-     * 
+     *
      * @var \Psr\Container\ContainerInterface
      */
     protected $container;
 
     /**
      * Constructor.
-     * 
+     *
      * @param ContainerInterface $container
      */
     public function __construct(ContainerInterface $container)
@@ -41,7 +42,7 @@ abstract class AbstractController
 
     /**
      * Retrieve container items.
-     * 
+     *
      * @param string $property The property item
      */
     public function __get(string $property)
@@ -50,6 +51,6 @@ abstract class AbstractController
             return $this->container->get($property);
         }
 
-        trigger_error('Undefined property: ' . $property);
+        trigger_error('Undefined property: '.$property);
     }
 }
