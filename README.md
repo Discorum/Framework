@@ -31,7 +31,7 @@ If you find a security vulnerability within the Discorum Framework, we ask that 
 
 ## Created By
 
-- [Nicholas Sylke](https://github.com/nsylke) (Nick#4490)
+- [Nicholas Sylke](https://github.com/nsylke) (nsylke#4490)
 - [TJ Richards](https://github.com/tjrgg) (tjrgg#0130)
 
 
